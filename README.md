@@ -1,23 +1,39 @@
-# Simple_Shell Project
-# SHELL'S BELLS !
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# Simple_Shell Project
 <a name="top"></a>
-# Título de nuestro documento
- 
-## Índice de contenidos
-* [Contenido 1](#item1)
-* [Contenido 2](#item2)
+# SHELL'S BELLS !
+Welcome to the `Robert-Martin Simple Shell Project` this shell can be compiled and run from the command line, it includes some basic features, as well as some advanced features found in most shell programs.
+
+## Table of contents
+* [Quick Start](#item1)
+* [Syntax](#item2)
 * [Contenido 3](#item3)
 * [Contenido 4](#item4)
  
-Lorem ipsum dolor
- 
 <a name="item1"></a>
-### Contenido 1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+### Quick Start
+ - git clone this repository to your local machine.
+ `$ git clone https://github.com/sebascastel/simple_shell`
+ - `cd` into `simple_shell/` directory. 
+ ```sh
+$ cd simple_shell/
+```
+ - Compile the program.
+ `$ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
+    or
+`$ make `
+- Execute the Shell's Bells !
+`$ ./hsh`
+Note: **Shell's Bells** can also be run in non-interactive mode:
+`$ echo "/bin/ls" | ./hsh`
+
  
-[Subir](#top)
+
  
 <a name="item2"></a>
-### Contenido 2
+### Syntax
  
+ 
+ [Subir](#top)
