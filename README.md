@@ -78,13 +78,20 @@ This Shell, has a familiar syntax when running commands, as other common Shells:
  <a name="item4"></a>
 ### Builtins
 
-Our Shell supports a variety of builtin commands:
-`exit` - exits the Shell
-`env` - prints the environment variables.
-`setenv` - sets an environment variable.
-`unsetenv` - unsets an environment variable.
-`cd` - changes directory.
-`help` - displays help for builtin commands.
+Our Shell supports a variety of builtin commands:  
+
+`exit` - exits the Shell  
+
+`env` - prints the environment variables.  
+
+`setenv` - sets an environment variable.  
+
+`unsetenv` - unsets an environment variable.  
+
+`cd` - changes directory.  
+
+`help` - displays help for builtin commands.  
+
 #### Bonus
 `welcome` - displays a welcome message :-)
 `bart` - shows Bart Simpson :smile:
