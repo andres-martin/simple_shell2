@@ -123,6 +123,17 @@ A short description of every file used in this project.
 | colors_2.c | set of colors       |
 | cp_env.c | makes a copy of the environment variables        |
 | create_arg_list.c | takes the input buffer and creates argument list    |
-
+| delete_node_ind.c | deletes a node at a given index   |
+| error.c | writes error message to standard output    |
+| exec.c | forks and execute command |
+| exit_built.c | builtin `exit` function    |
+| free_list.c | frees memory for linked lists  | 
+| handler.c |  handles the `ctrl-c` key to keep looping |
+| help_options. | a collection of helper builtin functions    |
+| holberton.h | header file    |
+| not_builtin.c | core function of our Shell :joy:    |
+| path.c | searches the correct path of command and concatenates the path with '/' and command   |
+| perm.c | checks permisions |
+| print_env.c | builtin function of `env` prints the environment|
  [Back to Top](#top)
  
