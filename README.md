@@ -93,7 +93,8 @@ Our Shell supports a variety of builtin commands:
 `help` - displays help for builtin commands.  
 
 #### Bonus
-`welcome` - displays a welcome message :-)
+`welcome` - displays a welcome message :smile:  
+
 `bart` - shows Bart Simpson :smile:
  
  [Back to Top](#top)
