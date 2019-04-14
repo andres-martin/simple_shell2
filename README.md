@@ -4,13 +4,14 @@
 # Simple_Shell Project
 <a name="top"></a>
 # SHELL'S BELLS !
-Welcome to the `Robert-Martin Simple Shell Project` this shell can be compiled and run from the command line, it includes some basic features, as well as some advanced features found in most shell programs.
+Welcome to the `Robert-Martin Simple Shell Project` this shell can be compiled and run from the command line, it includes basic features, as well as some advanced features found in most shell programs.
 
 ## Table of contents
 * [Quick Start](#item1)
 * [Syntax](#item2)
 * [Example Usage](#item3)
-* [Contenido 4](#item4)
+* [Builtins](#item4)
+* [Files](#item5)
  
 <a name="item1"></a>
 ### Quick Start
@@ -52,7 +53,7 @@ This Shell, has a familiar syntax when running commands, as other common Shells:
  ```
  <a name="item3"></a>
  ### Example Usage
-  - interactive mode
+ interactive mode
   - `ls` command:
  ```s
  †Shell's Bells† ls -1
@@ -65,7 +66,28 @@ This Shell, has a familiar syntax when running commands, as other common Shells:
  ```s
  †Shell's Bells† cd ..
  ``` 
- 
+ - `help` command:
+ ```s
+ †Shell's Bells† help <builtin command>
+ ``` 
+ - `# comments`
+  ```s
+ †Shell's Bells† echo Hello # World
+ Hello
+ ``` 
+ <a name="item4"></a>
+### Builtins
+
+Our Shell supports a variety of builtin commands:
+`exit` - exits the Shell
+`env` - prints the environment variables.
+`setenv` - sets an environment variable.
+`unsetenv` - unsets an environment variable.
+`cd` - changes directory.
+`help` - displays help for builtin commands.
+#### Bonus
+`welcome` - displays a welcome message :-)
+`bart` - shows Bart Simpson :smile:
  
  [Back to Top](#top)
  
