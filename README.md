@@ -116,7 +116,7 @@ A short description of every file used in this project.
 | `_strtok.c` | implemetation of builtin `strtok` function          |
 | `add_node_end.c` | adds a new node at the end of a linked list         |
 | `bart.c` | builtin function that prints bart          |
-| bart.txt | text file which contains `ASCII` bart          |
+| `bart.txt` | text file which contains `ASCII` bart          |
 | `cd.c` | implementation of `cd` builtin function          |
 | `ch_pwd.c` | changes current working directory
 | `colors.c` | a set of colors used to bring to life our `Shell` :boom: |
