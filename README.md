@@ -119,7 +119,7 @@ A short description of every file used in this project.
 | bart.txt | text file which contains `ASCII` bart          |
 | cd.c | implementation of `cd` builtin function          |
 | ch_pwd.c | changes current working directory
-| colors.c | a set of colors used to bring to life our `Shell` |
+| colors.c | a set of colors used to bring to life our `Shell` :boom: |
 | colors_2.c | set of colors       |
 | cp_env.c | makes a copy of the environment variables        |
 | create_arg_list.c | takes the input buffer and creates argument list    |
@@ -135,5 +135,6 @@ A short description of every file used in this project.
 | path.c | searches the correct path of command and concatenates the path with '/' and command   |
 | perm.c | checks permisions |
 | print_env.c | builtin function of `env` prints the environment|
- [Back to Top](#top)
+
+[Back to Top](#top)
  
