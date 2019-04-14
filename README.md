@@ -21,13 +21,21 @@ Welcome to the `Robert-Martin Simple Shell Project` this shell can be compiled a
 $ cd simple_shell/
 ```
  - Compile the program.
- `$ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
+ ```sh 
+ $ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
+ ```
     or
-`$ make `
+```sh
+$ make 
+```
 - Execute the Shell's Bells !
-`$ ./hsh`
+```sh
+$ ./hsh
+```
 Note: **Shell's Bells** can also be run in non-interactive mode:
-`$ echo "/bin/ls" | ./hsh`
+```sh
+$ echo "/bin/ls" | ./hsh
+```
 
  
 
