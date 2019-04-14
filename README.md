@@ -15,7 +15,9 @@ Welcome to the `Robert-Martin Simple Shell Project` this shell can be compiled a
 <a name="item1"></a>
 ### Quick Start
  - git clone this repository to your local machine.
- `$ git clone https://github.com/sebascastel/simple_shell`
+ ```sh
+ $ git clone https://github.com/sebascastel/simple_shell
+ ```
  - `cd` into `simple_shell/` directory. 
 ```sh
 $ cd simple_shell/
