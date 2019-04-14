@@ -147,4 +147,7 @@ A short description of every file used in this project.
 
 
 [Back to Top](#top)
+
+#### AUTHORS 
+This project was created by -  and [Robert Castellanos](https://github.com/sebascastel) [Andres Martin](https://github.com/andres-martin) at Holberton School Colombia cohort 0.
  
