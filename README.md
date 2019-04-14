@@ -102,7 +102,7 @@ A short description of every file used in this project.
 
 | File Name | Description   | 
 |---- | ------------ | 
-| **AUTHORS**  | file containing the **contributig authors**    | 
+| **AUTHORS**  | file containing the **contributing authors**    | 
 | **README.md**  | readme file explainig wht this project is about  |
 | `_getline.c`  | implementation of getline function |
 | `_help.c` | implementation of builtin `help` function          |
