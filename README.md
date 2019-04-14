@@ -104,15 +104,15 @@ A short description of every file used in this project.
 | File Name | Description   | 
 |---- | ------------ | 
 | AUTHORS  | file containing the **contributig authors**    | 
-| README.md  | readme file explainig wht this project is about  | 
-|_getline.c | implementation of `getline` function          |
-| _help.c | implementation of builtin `help` function          |
-|_realloc.c | `realloc` reallocates memory          |
-|_strcat.c | function that concatenates three strings          |
-|_strcmp.c | compares two strings          |
-|_strcpy.c | copies the string pointed by `src` to pointer `dest`        |
-|_strdup.c | duplicates a string          |
-|_strtok.c | implemetation of builtin `strtok` function          |
+| README.md  | readme file explainig wht this project is about  |
+| `_getline.c`  | implementation of getline function |
+| `_help.c` | implementation of builtin `help` function          |
+| `_realloc.c` | `realloc` reallocates memory          |
+| `_strcat.c` | function that concatenates three strings          |
+| `_strcmp.c` | compares two strings          |
+| `_strcpy.c` | copies the string pointed by `src` to pointer `dest`        |
+| `_strdup.c` | duplicates a string          |
+| `_strtok.c` | implemetation of builtin `strtok` function          |
 | add_node_end.c | adds a new node at the end of a linked list         |
 | bart.c | builtin function that prints bart          |
 | bart.txt | text file which contains `ASCII` bart          |
