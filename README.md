@@ -135,6 +135,16 @@ A short description of every file used in this project.
 | path.c | searches the correct path of command and concatenates the path with '/' and command   |
 | perm.c | checks permisions |
 | print_env.c | builtin function of `env` prints the environment|
+| search_env.c | searches for the environment string pointed to by name |
+| set.c | sets or updates environment variable builtin `setenv` function |
+| shell.c | main fucntion of our `†Shell's Bells†` shell |
+| split.c | takes a string and splits it into key value pair |
+| struct_builtin.c | function to find builtins functions |
+| to_str.c | converts an integer into a string |
+| unset.c |  removes environment variable builtin `unsetenv` function |
+| welcome.c | builtin function that prints welcome message |
+| welcome.txt | text file which contains `ASCII` welcome message |
+
 
 [Back to Top](#top)
  
