@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 # Simple_Shell Project
 <a name="top"></a>
-# SHELL'S BELLS ! :fire:
+:fire: # SHELL'S BELLS ! :fire:
 Welcome to the `Robert-Martin Simple Shell Project` this shell can be compiled and run from the command line, it includes basic features, as well as some advanced features found in most shell programs.
 
 ## Table of contents
