@@ -9,7 +9,7 @@ Welcome to the `Robert-Martin Simple Shell Project` this shell can be compiled a
 ## Table of contents
 * [Quick Start](#item1)
 * [Syntax](#item2)
-* [Contenido 3](#item3)
+* [Example Usage](#item3)
 * [Contenido 4](#item4)
  
 <a name="item1"></a>
@@ -39,11 +39,33 @@ Note: **Shell's Bells** can also be run in non-interactive mode:
 $ echo "/bin/ls" | ./hsh
 ```
 
- 
-
- 
 <a name="item2"></a>
 ### Syntax
+This Shell, has a familiar syntax when running commands, as other common Shells:
+ ```s
+ †Shell's Bells† <command> <flags>
+ ```
+ 
+ - non-interactive mode:
+ ```sh
+ $ echo "<command>" | ./hsh
+ ```
+ <a name="item3"></a>
+ ### Example Usage
+  - interactive mode
+  - `ls` command:
+ ```s
+ †Shell's Bells† ls -1
+ ``` 
+ - `pwd`command:
+ ```s
+ †Shell's Bells† pwd
+ ``` 
+ - `cd` command:
+ ```s
+ †Shell's Bells† cd ..
+ ``` 
  
  
- [Subir](#top)
+ [Back to Top](#top)
+ 
